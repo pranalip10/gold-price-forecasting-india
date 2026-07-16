@@ -111,6 +111,17 @@ The following statistical tests were performed:
 - Demonstrated the importance of macroeconomic variables in forecasting accuracy.
 
 ---
+## 📸 Project Screenshots
+
+### Hybrid Prophet-GARCH Forecast
+
+![Hybrid Prophet GARCH Forecast](Hybrid Prophet GARCH Forecast.jpg)
+
+---
+
+### ACF of Prophet Residuals
+
+![ACF of Prophet Residuals](ACF of Prophet Residuals.jpg)
 
 📂 Repository Structure
 
